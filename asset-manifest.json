@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/cybarwarfare/test.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/cybarwarfare/test.git/static/js/main.239eb8dc.chunk.js",
-    "main.js.map": "/cybarwarfare/test.git/static/js/main.239eb8dc.chunk.js.map",
-    "runtime-main.js": "/cybarwarfare/test.git/static/js/runtime-main.68ab1ee7.js",
-    "runtime-main.js.map": "/cybarwarfare/test.git/static/js/runtime-main.68ab1ee7.js.map",
-    "static/js/2.68f56c50.chunk.js": "/cybarwarfare/test.git/static/js/2.68f56c50.chunk.js",
-    "static/js/2.68f56c50.chunk.js.map": "/cybarwarfare/test.git/static/js/2.68f56c50.chunk.js.map",
-    "index.html": "/cybarwarfare/test.git/index.html",
-    "precache-manifest.2a76485e7433a7496c13dd5ed0c22ae5.js": "/cybarwarfare/test.git/precache-manifest.2a76485e7433a7496c13dd5ed0c22ae5.js",
-    "service-worker.js": "/cybarwarfare/test.git/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/cybarwarfare/test.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.68f56c50.chunk.js.LICENSE.txt": "/cybarwarfare/test.git/static/js/2.68f56c50.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/cybarwarfare/test.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/cybarwarfare/test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cybarwarfare/test/static/js/main.d42e44f5.chunk.js",
+    "main.js.map": "/cybarwarfare/test/static/js/main.d42e44f5.chunk.js.map",
+    "runtime-main.js": "/cybarwarfare/test/static/js/runtime-main.0b5b4a67.js",
+    "runtime-main.js.map": "/cybarwarfare/test/static/js/runtime-main.0b5b4a67.js.map",
+    "static/js/2.68f56c50.chunk.js": "/cybarwarfare/test/static/js/2.68f56c50.chunk.js",
+    "static/js/2.68f56c50.chunk.js.map": "/cybarwarfare/test/static/js/2.68f56c50.chunk.js.map",
+    "index.html": "/cybarwarfare/test/index.html",
+    "precache-manifest.337cfcd762ad072b087926ed277c6cf1.js": "/cybarwarfare/test/precache-manifest.337cfcd762ad072b087926ed277c6cf1.js",
+    "service-worker.js": "/cybarwarfare/test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cybarwarfare/test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.68f56c50.chunk.js.LICENSE.txt": "/cybarwarfare/test/static/js/2.68f56c50.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cybarwarfare/test/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.68ab1ee7.js",
+    "static/js/runtime-main.0b5b4a67.js",
     "static/js/2.68f56c50.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.239eb8dc.chunk.js"
+    "static/js/main.d42e44f5.chunk.js"
   ]
 }
